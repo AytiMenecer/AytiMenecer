@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AytiMenecer)](https://github.com/AytiMenecer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AytiMenecer&layout=compact)](https://github.com/AytiMenecer/github-readme-stats)
