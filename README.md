@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-
-<body>
 
     <h1 align="center">Hi 👋, I'm Nail Ismayilov</h1>
     <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
@@ -65,9 +57,3 @@
     </p>
 
     [AytiMenecer](https://github.com/AytiMenecer)
-
-
-    <script src="./index.html"></script>
-</body>
-
-</html>
